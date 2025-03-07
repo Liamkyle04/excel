@@ -1,0 +1,17 @@
+/* Base styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.menu-icon.hidden {
+  display: none;
+}
+
+.close-icon.hidden {
+  display: none;
+}
+
+#mobileMenu.hidden {
+  display: none;
+}
